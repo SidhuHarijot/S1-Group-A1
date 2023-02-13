@@ -15,5 +15,5 @@ b.	Write a new version of the program with the errors corrected. Run this progra
 # Contributors
 ## Group 14:
 * Harijot Singh, 000904878
-* Gurnoor Singh, 
-* Yuvraj Verma, 
+* Gurnoor Singh, 000907979
+* Yuvraj Verma, 000908118
